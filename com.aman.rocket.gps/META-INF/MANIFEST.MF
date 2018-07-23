@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Gps
+Bundle-SymbolicName: com.aman.rocket.gps
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: AMAN
+Automatic-Module-Name: com.aman.rocket.gps
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.aman.rocket.gps

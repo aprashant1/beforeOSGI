@@ -1,0 +1,23 @@
+package com.aman.rocket;
+
+/**
+ * <pre>
+ * Title: Toast
+ * Date: Jul 23, 2018
+ * Description: TODO
+ * Copyright: Copyright (c) 2018
+ * Company: Rocket Software, Inc
+ * </pre>
+ * @author aprashant
+ */
+public class Toast
+{
+    private void psvm()
+    {
+        System.out.println("--- STARTING ---");
+        GPS gps = new GPS();
+        Airbag airbag = new Airbag();
+
+    }
+}
+

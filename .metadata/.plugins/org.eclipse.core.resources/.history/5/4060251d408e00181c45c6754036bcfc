@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Airbag
+Bundle-SymbolicName: airbag
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: AMAN
+Automatic-Module-Name: airbag
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

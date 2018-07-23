@@ -1,0 +1,20 @@
+package com.aman.rocket.emergencyMonitor;
+
+import org.osgi.framework.BundleActivator;
+
+/**
+ * <pre>
+ * Title: Activator
+ * Date: Jul 23, 2018
+ * Description: TODO
+ * Copyright: Copyright (c) 2018
+ * Company: Rocket Software, Inc
+ * </pre>
+ * @author aprashant
+ */
+public class Activator
+    implements BundleActivator
+{
+
+}
+

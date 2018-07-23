@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EmergencyMonitor
+Bundle-SymbolicName: EmergencyMonitor
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: AMAN
+Automatic-Module-Name: EmergencyMonitor
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: airbag;bundle-version="1.0.0",
+ com.aman.rocket.gps;bundle-version="1.0.0"
